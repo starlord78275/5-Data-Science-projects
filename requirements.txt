@@ -1,0 +1,24 @@
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scikit-learn==1.3.0
+imbalanced-learn==0.11.0
+xgboost==1.7.6
+shap==0.42.1
+plotly==5.17.0
+
+# Project 2: RFM (Clustering)
+scipy==1.11.4
+
+# Project 3: Sentiment (NLP)
+wordcloud==1.9.2
+
+# Project 5: Deepfake (Audio/ML)
+librosa==0.10.1
+soundfile==0.12.1
+pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Optional: Streamlit Deployment
+streamlit==1.28.0
